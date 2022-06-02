@@ -5,7 +5,9 @@ https://solved.ac/problems/level
 
 진행상황 Bronze V 8545 번까지 완료
 
-# Vue.js 설치
+# Vue.js
+
+- 설치
 ( 관리자모드시 앞에 sudo ) 
 1. node -v ( 예 :: 14.10.0 )
 2. npm -v ( 예 :: 6.14.8 )
@@ -14,8 +16,10 @@ https://solved.ac/problems/level
 5. 프로젝트 생성을 위해 npm i -g @vue/cli-init 실행
 6. 명령어 확인을 위한 vue -V
 7. 프로젝트 생성 vue init webpack 프로젝트명
+ ----
 
-
+ESLint
+- 코드에 문제를 찾고 자동으로 수정할 수 있게 한다. 커스터마이즈도 할수있다 ( 코드의 일관성을 유지할 수 있어서 좋다 )
 
 # cookie session localStorage
 
@@ -45,10 +49,8 @@ localStorage
 2. 유효기간 없이 데이터를 저장한다
 3. JavaScript를 사용하거나 브라우저 캐시 또는 로컬 저장 데이터를 지워야만 사라진다.
 
-# Vue.js
+# MySQL
 
-ESLint
-- 코드에 문제를 찾고 자동으로 수정할 수 있게 한다. 커스터마이즈도 할수있다 ( 코드의 일관성을 유지할 수 있어서 좋다 )
 
 ![image](https://user-images.githubusercontent.com/91230329/171583708-590aad84-2916-4fb0-9c31-af001320a002.png)
 
