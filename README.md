@@ -49,3 +49,6 @@ localStorage
 
 ESLint
 - 코드에 문제를 찾고 자동으로 수정할 수 있게 한다. 커스터마이즈도 할수있다 ( 코드의 일관성을 유지할 수 있어서 좋다 )
+
+![image](https://user-images.githubusercontent.com/91230329/171583708-590aad84-2916-4fb0-9c31-af001320a002.png)
+
