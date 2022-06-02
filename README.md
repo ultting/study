@@ -5,6 +5,17 @@ https://solved.ac/problems/level
 
 진행상황 Bronze V 8545 번까지 완료
 
+# Vue.js 설치
+( 관리자모드시 앞에 sudo ) 
+1. node -v ( 예 :: 14.10.0 )
+2. npm -v ( 예 :: 6.14.8 )
+3. npm install vue --> npm vue -v ( 예 :: 7.15.1 )
+4. npm install -g @vue/cli c ( Vue cli 설치 )
+5. 프로젝트 생성을 위해 npm i -g @vue/cli-init 실행
+6. 명령어 확인을 위한 vue -V
+7. 프로젝트 생성 vue init webpack 프로젝트명
+
+
 
 # cookie session localStorage
 
