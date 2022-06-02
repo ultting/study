@@ -3,6 +3,8 @@
 백준 난이도별 문제 <br>
 https://solved.ac/problems/level
 
+진행상황 Bronze V 8545 번까지 완료
+
 
 # cookie session localStorage
 
