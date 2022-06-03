@@ -5,6 +5,7 @@ https://solved.ac/problems/level
 
 진행상황 Bronze V 24262 번 부터 진행
 
+git 누락 :: 24262 24568 24736
 # Vue.js
 
 - 설치
