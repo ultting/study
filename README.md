@@ -3,9 +3,9 @@
 백준 난이도별 문제 <br>
 https://solved.ac/problems/level
 
-진행상황 Bronze 4 4299 번 까지 진행
+진행상황 Bronze 4 5575 번 까지 진행
 
-git 누락 :: 
+git 누락 :: 5596
 # Vue.js
 
 - 설치
