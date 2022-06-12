@@ -6,6 +6,17 @@ https://solved.ac/problems/level
 진행상황 Bronze 4 10768 번 까지 진행
 
 git 누락 :: 
+
+# REST API
+
+참고 url : https://gmlwjd9405.github.io/2018/09/21/rest-and-restful.html
+
+- REST
+ - 자원을 이름으로 구분하여 해당 자원의 상태를 주고받는 모든것을 의미한다
+ - 자원의 표현에 의한 상태 전달
+ - 자원의 표현 
+ - 
+
 # Vue.js
 
 - 설치
