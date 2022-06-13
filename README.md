@@ -3,7 +3,7 @@
 백준 난이도별 문제 <br>
 https://solved.ac/problems/level
 
-진행상황 Bronze 4 10797번 까지 진행
+진행상황 Bronze 4 11720번 까지 진행
 
 git 누락 :: 
 
