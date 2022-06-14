@@ -89,3 +89,10 @@ localStorage
 
 ![image](https://user-images.githubusercontent.com/91230329/171583708-590aad84-2916-4fb0-9c31-af001320a002.png)
 
+
+
+SELECT distinct DATE_FORMAT(_pageVisitLog.insertTime, '%Y-%m-%d') as insertTime,count(_pageVisitLog.insertTime) as cnt
+from _pageVisitLog 
+WHERE insertTime BETWEEN '2019-12-18' and '2021-03-31'
+and _pageVisitLog.customerCode is not NULL 
+GROUP BY DATE_FORMAT(_pageVisitLog.insertTime, '%Y-%m-%d')
