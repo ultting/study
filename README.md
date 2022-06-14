@@ -90,13 +90,3 @@ localStorage
 ![image](https://user-images.githubusercontent.com/91230329/171583708-590aad84-2916-4fb0-9c31-af001320a002.png)
 
 
-stickiness 차트 그리기
-Stickiness는 DAU와 MAU 또는 DAU와 WAU의 비율로 계산
-DAU(Dailly active user) 이틀에 한번 한번이라도 접속한 적이 있는 유저의 수(중복 x)
-WAU(Weekly active user) 각 주별로 한번이라도 접속한 적이 있는 유저의 수(중복 x)
-기간별로 조회하는 기능
-예제 1
-1월 28일의 DAU는 1명, 그리고 WAU는 7명이므로 Stickiness는 약 14% 입니다. 주간 방문한 순수 사용자 중 14% 만이 1월 28일에 방문했다고 해석
-예제 2
-1월 28일의 DAU는 7명, WAU도 7명이므로 Stickiness는 100% 입니다. 주간 방문한 순수 사용자 중 100%가 1월 28일에 방문했다고 해석
-
