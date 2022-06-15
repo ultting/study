@@ -89,4 +89,4 @@ localStorage
 
 ![image](https://user-images.githubusercontent.com/91230329/171583708-590aad84-2916-4fb0-9c31-af001320a002.png)
 
-
+탄력적인 클라우드 자원활용 기술 : 오토 스케일링
